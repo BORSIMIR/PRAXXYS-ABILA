@@ -8,8 +8,11 @@
 </p>
 
 database sql name: praxxys.sql
+
 Admin Account
+
 email: admin@gmail.com
+
 pass: 123123123
 
 ## About Laravel
